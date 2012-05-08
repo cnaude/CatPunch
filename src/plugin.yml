@@ -1,0 +1,5 @@
+name: CatPunch
+main: me.cnaude.plugin.CatPunch.CatPunch
+version: 0.2
+decription: Punch and animal to see who the owner is.
+author: Chris Naude
